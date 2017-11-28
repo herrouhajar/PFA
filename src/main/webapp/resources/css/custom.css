@@ -1,0 +1,36 @@
+header, main, footer {
+    padding-left: 150px;
+}
+
+header nav .page-title{
+    font-size: 48px;
+    line-height: 122px;
+}
+
+header nav.top-nav{
+    height: 122px;
+}
+
+input.no-margin{
+    margin: 0;
+}
+
+input.no-padding{
+    padding: 0;
+}
+
+#map {
+    height: 100%;
+}
+
+ul#nav-mobile li:first-child{
+    margin-top: 2rem;
+}
+
+.logo {
+	height:150px !important;
+}
+
+.align-icon {
+	vertical-align: bottom !important;
+}
